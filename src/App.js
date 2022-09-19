@@ -1,4 +1,3 @@
-// import logo from "./logo.svg";
 import "./App.css";
 // import List from "./Components/Service_pages/List";
 import MainRoutes from "./Pages/MainRoutes";
