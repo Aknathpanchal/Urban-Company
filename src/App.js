@@ -8,8 +8,8 @@ import ServicePage from "./Pages/ServicePage";
 function App() {
   return (
     <div className="App">
-      <MainRoutes />
-      {/* <ServicePage/> */}
+      {/* <MainRoutes /> */}
+      <ServicePage/>
       {/* <List para="Shree"/> */}
       {/* <Summary/> */}
     </div>
