@@ -100,6 +100,8 @@ const HomeTopSection = ({ loading, setLoading, onChange, suggestions }) => {
         </Heading>
         <br />
         <br />
+        <br />
+        <br />
         <Container
           maxW="3xl"
           lineHeight={"24px"}
